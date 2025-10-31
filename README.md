@@ -1,3 +1,7 @@
+Problem Statement: Build an agent that takes a campaign brief, generates multiple ad copy variations, creates image generation prompts for each , calls image generation API, evaluates copy-image coherence, and packages best combinations with A/B testing.
+
+Solution:
+
 🤖 Overview
 An end-to-end AI Ad Campaign Generator that automates the complete advertising creation process. From campaign brief to A/B testing recommendations, this system leverages AI to create professional-grade ad variations with intelligent quality scoring.
 
